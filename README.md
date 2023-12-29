@@ -1,2 +1,3 @@
 # myfirst-project
-This is first repository
+This is first repository.
+Author-Md Amiruddin
